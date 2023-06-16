@@ -2,8 +2,6 @@ my goals
 -belajar web dev
 -diiringgi belajar matematika
 -diiringgi belajar bahasa inggris
+-belajar data enginering
+-belajar ai enginering
 -belajar machine lerning enginering
-
-
-
-
